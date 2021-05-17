@@ -28,5 +28,9 @@ console.log('__\n',foo(a));
 /*
 agcb notes
 
- - iterating through
+ - iterating through, even though we only go through half, we still consider the entire process 0(n)
+ - Interesting recurring theme here about always taking the worst case scenario as our measurements.
+ - " yeah but it was only half of the data", "nope you are still getting charged for the whole thing"
+ -
+ 
  */

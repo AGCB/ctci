@@ -26,7 +26,7 @@ function foo(arr=[2,3,4]) {
 
 
 
-console.log('__\n',
+console.log('__\n\n',
 foo(a),
 '__\n',
 foo(b),
